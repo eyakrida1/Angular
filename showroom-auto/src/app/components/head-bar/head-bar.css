@@ -1,0 +1,9 @@
+.header{
+    padding: 20px;
+    background-color: green;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
