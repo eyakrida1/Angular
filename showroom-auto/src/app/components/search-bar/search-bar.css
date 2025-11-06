@@ -6,3 +6,24 @@ input{
     color: green;
     border: green solid;
 }
+
+.auto-container{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    
+}
+.card{
+    margin: 20px;
+    box-shadow: 2px 2px 10px green; 
+    /* mdn website*/
+}
+.card-body-even{
+    background-color: azure;
+    color: green;
+}
+.card-body-odd{
+    background-color: green;
+    color: azure;
+}

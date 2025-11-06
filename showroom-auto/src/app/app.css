@@ -1,0 +1,13 @@
+img{
+    width: 300px;
+}
+.row{
+    justify-content: center;
+}
+.container{
+    padding-top: 20px;
+}
+p{
+    color: green;
+    text-align: justify;
+}
